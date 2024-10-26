@@ -1,0 +1,1 @@
+This project will give the the ability to create a simple website about whowing recipes. I will will show my early HTML skills to make this website including setting up the boilerplate, making paragraphs, heading, links and images. 
